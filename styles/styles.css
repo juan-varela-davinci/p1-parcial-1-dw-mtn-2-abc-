@@ -1,0 +1,101 @@
+#productosContainer{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  justify-items: center;
+  gap: 20px;
+  
+}
+
+header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cantidadProductos>span{
+  font-weight: bold;
+  width: min-content
+}
+
+.productosContenedor>h2{
+  text-align: center;
+  margin: 50px;
+}
+
+.btnProduContenedor{
+  display: flex;
+  justify-content: center;
+}
+.btnProduContenedor>button{
+  text-decoration: none;
+  border: 2px skyblue solid;
+  background-color: skyblue;
+  width: 170px;
+  height: 50px;
+  border-radius: 10px ;
+  margin: 50px 10px 100px;
+
+}
+
+#cart{
+  display: flex;
+  justify-content: end;
+}
+
+.card{
+  border: 1px solid black;
+  border-radius: 10px;
+  max-width: 250px;
+  height: max-content;
+}
+
+.imgContainer{
+  max-width: 250px;
+  border-radius: 10px;
+}
+
+.precioContainer{
+  font-size: large;
+  margin: 10px;
+}
+
+.btnsContainer{
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+  width: 90%;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+
+.agregarBtn, .comprarBtn{
+  background-color: white;
+  border-radius: 5px;
+  height: 30px;
+  border: none;
+  width: 100%;
+  transition: all 1s;
+  font-weight: 700;
+}
+
+.agregarBtn{
+  background: rgb(103, 196, 243);
+}
+.comprarBtn{
+  background:rgb(84, 203, 84);
+}
+
+.agregarBtn:hover,
+.comprarBtn:hover{
+  opacity: 90%;
+  cursor:pointer;
+}
+
+
+.productoContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+}

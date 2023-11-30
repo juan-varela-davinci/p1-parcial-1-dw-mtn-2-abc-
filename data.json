@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "img":"./img/p1.jpg",
+    "nombre": "Pan blanco",
+    "descripcion":"Lo mejor desde, bueno, ¡pan de molde!Esta no es una barra de pan promedio; es revolucionario. Cada rebanada suave y esponjosa de nuestro pan sin gluten, vegano, cetogénico y paleo te hará preguntarte por qué no lo probaste antes... y por qué no pediste más. Ah, ¿y mencionamos que este pan tampoco contiene cereales? ",
+    "cantidad":1,
+    "categoria": "pan",
+    "precio":1000
+  },{
+    "id": 2,
+    "img":"./img/galletas-chocolate.png",
+    "nombre":"Galletas de chocolate",
+    "descripcion":"¡Una experiencia de galletas que te dejará boquiabierto!Prepárate para hincarle el diente a la galleta más dulce, chocolateada y deliciosa que jamás hayas probado.",
+    "cantidad":1,
+    "categoria": "cookie",
+    "precio":1000
+  },{
+    "id": 3,
+    "img":"./img/p3.jpg",
+    "nombre":"Beagles blanco",
+    "descripcion":"¡No es necesario volar a la Gran Manzana para disfrutar del schmear perfecto! Cada uno de nuestros bagels queda perfectamente esponjoso y suave nada más sacarlo de la bolsa, no es necesario calentarlo. Tuéstalos para que queden crujientes antes de cubrirlos con tus mermeladas, jaleas y más favoritos.",
+    "cantidad":1,
+    "categoria": "pan",
+    "precio":2000
+  },{
+    "id": 4,
+    "img":"./img/p4.jpg",
+    "nombre":"Beagles negros",
+    "descripcion":"Le estamos dando una oportunidad a la Costa Este con nuestros bagels.Un nativo de Nueva York dijo una vez que estos eran los mejores bagels que jamás habían probado. .",
+    "cantidad":1,
+    "categoria":"pan",
+    "precio":2000
+  },{
+    "id": 5,
+    "img":"./img/galletas-vainilla.png",
+    "nombre":"Galletas de vainilla",
+    "descripcion":"Si está buscando las mejores galletas con chispas de chocolate del mundo, no busque más: las ha encontrado.Estas galletas a base de plantas son una deliciosa contradicción-.",
+    "cantidad":1,
+    "categoria": "cookie",
+    "precio":1800
+  },{
+    "id": 6,
+    "img":"./img/trufas.png",
+    "nombre":"Trufas Veganas",
+    "descripcion":"Las mejores del pais",
+    "cantidad":1,
+    "categoria": "trufa",
+    "precio":1200
+  },{
+    "id": 7,
+    "img":"./img/p2.jpg",
+    "nombre":"Pan negro",
+    "descripcion":"No agarres tu tostadora todavía; Este no es el típico impostor de pan seco, quebradizo y sin sabor. Nuestros panes de mezcla de bagel con semillas de sésamo y todo son suaves, húmedos y tienen un sabor delicioso sin calentarlos. Pero si buscas un capricho, disfrutar de unas rebanadas recién sacadas de la tostadora es como disfrutar de un pan recién horneado, pura felicidad.",
+    "cantidad":1,
+    "categoria": "pan",
+    "precio":1200
+  }
+]
